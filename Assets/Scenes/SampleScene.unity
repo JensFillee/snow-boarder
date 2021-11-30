@@ -240,9 +240,19 @@ MonoBehaviour:
   m_Spline:
     m_IsOpenEnded: 0
     m_ControlPoints:
-    - position: {x: -1, y: -1, z: 0}
-      leftTangent: {x: 0.53597367, y: -0.00048214197, z: -0}
-      rightTangent: {x: -0.53597367, y: 0.00048214197, z: 0}
+    - position: {x: -32.369217, y: -18.48144, z: 0}
+      leftTangent: {x: 0.267231, y: -0.00024032593, z: 0}
+      rightTangent: {x: -3.515751, y: 0, z: 0}
+      mode: 2
+      height: 1
+      bevelCutoff: 0
+      bevelSize: 0
+      spriteIndex: 0
+      corner: 1
+      m_CornerMode: 1
+    - position: {x: -62.27904, y: -0.10952592, z: 0}
+      leftTangent: {x: -1.5981865, y: -8.058112, z: 0}
+      rightTangent: {x: 1.1791458, y: 5.9480925, z: 0}
       mode: 1
       height: 1
       bevelCutoff: 0
@@ -250,9 +260,9 @@ MonoBehaviour:
       spriteIndex: 0
       corner: 1
       m_CornerMode: 1
-    - position: {x: -2, y: 1, z: 0}
-      leftTangent: {x: -1.0023332, y: 0.0010559559, z: 0}
-      rightTangent: {x: 1.0023332, y: -0.0010559559, z: -0}
+    - position: {x: -35.959053, y: 4.4403906, z: 0}
+      leftTangent: {x: -5.570788, y: 0.2766989, z: -0}
+      rightTangent: {x: 9.522455, y: -0.47297668, z: 0}
       mode: 1
       height: 1
       bevelCutoff: 0
@@ -260,9 +270,9 @@ MonoBehaviour:
       spriteIndex: 0
       corner: 1
       m_CornerMode: 1
-    - position: {x: 2, y: 1, z: 0}
-      leftTangent: {x: -1.0005913, y: -0.0016920567, z: -0}
-      rightTangent: {x: 1.0005913, y: 0.0016920567, z: 0}
+    - position: {x: -15.286428, y: 1.2757019, z: 0}
+      leftTangent: {x: -9.203823, y: -2.5513992, z: -0}
+      rightTangent: {x: 5.6450014, y: 1.5648552, z: 0}
       mode: 1
       height: 1
       bevelCutoff: 0
@@ -270,9 +280,119 @@ MonoBehaviour:
       spriteIndex: 0
       corner: 1
       m_CornerMode: 1
-    - position: {x: 1, y: -1, z: 0}
-      leftTangent: {x: 0.54391515, y: 0.0004222989, z: 0}
-      rightTangent: {x: -0.54391515, y: -0.0004222989, z: -0}
+    - position: {x: -3.1085434, y: 0.020023584, z: 0}
+      leftTangent: {x: -1.7248526, y: 0.27481222, z: 0}
+      rightTangent: {x: 0.9007577, y: -0.14355698, z: 0}
+      mode: 1
+      height: 1
+      bevelCutoff: 0
+      bevelSize: 0
+      spriteIndex: 0
+      corner: 1
+      m_CornerMode: 1
+    - position: {x: 9.7589035, y: 0.42567962, z: 0}
+      leftTangent: {x: -3.4218762, y: -1.5516964, z: -0}
+      rightTangent: {x: 3.6662607, y: 1.6625159, z: 0}
+      mode: 1
+      height: 1
+      bevelCutoff: 0
+      bevelSize: 0
+      spriteIndex: 0
+      corner: 1
+      m_CornerMode: 1
+    - position: {x: 21.569803, y: -3.366033, z: 0}
+      leftTangent: {x: -1.8917637, y: 10.535519, z: 0}
+      rightTangent: {x: 0.71040547, y: -3.9563558, z: -0}
+      mode: 1
+      height: 1
+      bevelCutoff: 0
+      bevelSize: 0
+      spriteIndex: 0
+      corner: 1
+      m_CornerMode: 1
+    - position: {x: 34.53965, y: -3.5072355, z: 0}
+      leftTangent: {x: -3.3042293, y: -2.9687653, z: -0}
+      rightTangent: {x: 7.915619, y: 7.11198, z: 0}
+      mode: 1
+      height: 1
+      bevelCutoff: 0
+      bevelSize: 0
+      spriteIndex: 0
+      corner: 1
+      m_CornerMode: 1
+    - position: {x: 55.532223, y: -0.48605776, z: 0}
+      leftTangent: {x: -5.829357, y: -3.173781, z: 0}
+      rightTangent: {x: 6.9853973, y: 3.8028417, z: 0}
+      mode: 1
+      height: 1
+      bevelCutoff: 0
+      bevelSize: 0
+      spriteIndex: 0
+      corner: 1
+      m_CornerMode: 1
+    - position: {x: 67.566795, y: 7.0390806, z: 0}
+      leftTangent: {x: -1.582778, y: -2.1548402, z: -0}
+      rightTangent: {x: 9.844078, y: 13.402017, z: 0}
+      mode: 1
+      height: 1
+      bevelCutoff: 0
+      bevelSize: 0
+      spriteIndex: 0
+      corner: 1
+      m_CornerMode: 1
+    - position: {x: 89.655136, y: 10.039869, z: 0}
+      leftTangent: {x: -6.344948, y: 10.204603, z: 0}
+      rightTangent: {x: 4.1771603, y: -6.718142, z: -0}
+      mode: 1
+      height: 1
+      bevelCutoff: 0
+      bevelSize: 0
+      spriteIndex: 0
+      corner: 1
+      m_CornerMode: 1
+    - position: {x: 138.27547, y: 11.644062, z: 0}
+      leftTangent: {x: -23.123528, y: -1.2156906, z: 0}
+      rightTangent: {x: 22.791142, y: 1.1982158, z: -0}
+      mode: 1
+      height: 1
+      bevelCutoff: 0
+      bevelSize: 0
+      spriteIndex: 0
+      corner: 1
+      m_CornerMode: 1
+    - position: {x: 180.65668, y: -2.0263586, z: 0}
+      leftTangent: {x: -0.02041626, y: -0.000034570694, z: 0}
+      rightTangent: {x: 0.47679138, y: 0.00080633163, z: 0}
+      mode: 1
+      height: 1
+      bevelCutoff: 0
+      bevelSize: 0
+      spriteIndex: 0
+      corner: 1
+      m_CornerMode: 1
+    - position: {x: 34.088318, y: -21.039482, z: 0}
+      leftTangent: {x: 7.6483192, y: 2.285957, z: 0}
+      rightTangent: {x: -8.400173, y: -2.5109456, z: 0}
+      mode: 1
+      height: 1
+      bevelCutoff: 0
+      bevelSize: 0
+      spriteIndex: 0
+      corner: 1
+      m_CornerMode: 1
+    - position: {x: 3.364022, y: -22.919962, z: 0}
+      leftTangent: {x: 0.2847352, y: 0.00022125244, z: 0}
+      rightTangent: {x: -0.27272415, y: -0.0002117157, z: 0}
+      mode: 1
+      height: 1
+      bevelCutoff: 0
+      bevelSize: 0
+      spriteIndex: 0
+      corner: 1
+      m_CornerMode: 1
+    - position: {x: -18.335047, y: -23.058868, z: 0}
+      leftTangent: {x: 4.406167, y: -0.22947025, z: 0}
+      rightTangent: {x: -4.382849, y: 0.2282629, z: 0}
       mode: 1
       height: 1
       bevelCutoff: 0
@@ -340,9 +460,9 @@ SpriteShapeRenderer:
   m_SortingOrder: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_MaskInteraction: 0
-  m_ShapeTexture: {fileID: 2800000, guid: b281b91a70a624a0da1c43adc1c30c7b, type: 3}
+  m_ShapeTexture: {fileID: 2800000, guid: ce6706b9db8f9704da1ff81edb7f9a94, type: 3}
   m_Sprites:
-  - {fileID: 21300000, guid: 0ae2b74b1edd14bb18dd7b65ae916a54, type: 3}
+  - {fileID: 21300000, guid: e5ebe3a40eaa01744b89b57398e9188d, type: 3}
   - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
   - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
   - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
@@ -352,8 +472,8 @@ SpriteShapeRenderer:
   - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
   - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
   m_LocalAABB:
-    m_Center: {x: 0.00027251244, y: -0.0002721548, z: 0}
-    m_Extent: {x: 2.589231, y: 1.250067, z: 0}
+    m_Center: {x: 59.185158, y: -2.8552246, z: 0}
+    m_Extent: {x: 121.96305, y: 20.785536, z: 0}
 --- !u!4 &1326002507
 Transform:
   m_ObjectHideFlags: 0
