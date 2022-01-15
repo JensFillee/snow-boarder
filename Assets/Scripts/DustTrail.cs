@@ -6,7 +6,7 @@ public class DustTrail : MonoBehaviour
 {
     [SerializeField] ParticleSystem dustTrail;
 
-    private void OnCollisionEnter2D(Collision2D other)
+    void OnCollisionEnter2D(Collision2D other)
     {
         if (other.collider.tag == "Ground")
         {
@@ -14,7 +14,7 @@ public class DustTrail : MonoBehaviour
         }
     }
 
-    private void OnCollisionExit2D(Collision2D other)
+    void OnCollisionExit2D(Collision2D other)
     {
         if (other.gameObject.tag == "Ground")
         {
